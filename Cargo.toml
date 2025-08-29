@@ -34,4 +34,4 @@ fs2 = "0.4.3"
 serde = { version = "1.0.187", features = ["derive"] }
 serde_json = "1.0.105"
 tracing = "0.1.37"
-tracing-subscriber = { version = "0.3.17", features = ["env-filter"] }
+tracing-subscriber = { version = "0.3.18", features = ["env-filter"] }
